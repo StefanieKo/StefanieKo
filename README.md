@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a social scientist trained in Python and R with a strong interest in data science and machine learning. I am fascinated by how ML can both deliver accurate predictions and uncover the dynamics of complex systems. I enjoy testing ideas and exploring how data-driven analysis and theoretical intuition can be combined to generate actionable insights. My goal is to apply ML to identify structural leverage points and improve system performance — whether in healthcare, climate protection, or administrative processes.
+Social scientist with strong expertise in empirical research, statistics, and Python/R. Skilled in model-based reasoning, comparative analysis, and uncovering patterns in complex datasets. Passionate about turning data into actionable insights with real-world impact, particularly in health and social systems.
 
 <!--
 **StefanieKo/StefanieKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
