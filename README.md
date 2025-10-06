@@ -1,3 +1,5 @@
+Hi there 👋
+
 I am a social scientist experienced in empirical research and trained in Python and R. I enjoy applying comparative methods and statistical analysis to understand complex systems. Fascinated by machine learning and data-driven methods, I love experimenting with models and using analytical intuition to uncover the processes behind the data. My goal is to translate these insights into actionable solutions with real-world impact.
 
 <!--
